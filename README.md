@@ -1,4 +1,4 @@
-# Liggy Security Agents (LSA) - 5-Factor Authentication System
+# Linjao Security Agents (LSA) - 5-Factor Authentication System
 
 A robust, web-based Multi-Factor Authentication (MFA) system that implements five distinct authentication factors for enhanced security.
 
